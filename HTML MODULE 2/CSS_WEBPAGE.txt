@@ -1,0 +1,7 @@
+1> In how many ways can a CSS be integrated as a web page?
+
+Ans:-There are three ways to integrate css into a web page.
+
+(i) Inline:- HTML elements may have css applied to them via the style attrubute.
+(ii) Embedded:- by placing the code in a style element within the head element.
+(iii) Linked/Imported:- Place the css in an external file and link it via a link element
